@@ -1,0 +1,25 @@
+main{
+    width: 90%;
+    margin: 0 auto;
+}
+body{
+    background-color: #f1deb8;
+}
+h1{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.center{
+    text-align: center;
+}
+input{
+    width: 300px;
+}
+.img-div{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: rgb(241,222,184);
+}
