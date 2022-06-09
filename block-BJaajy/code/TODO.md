@@ -61,6 +61,8 @@ Promise.all([
   'Sam',
   { name: 'John' },
 ]).then(console.log);
+// output
+
 // 0: "Arya"
 //1: "Sam"
 //2:  'John'
