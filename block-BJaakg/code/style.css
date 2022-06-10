@@ -1,0 +1,18 @@
+body{
+    background-color: #7858a9;
+}
+main{
+    width: 95%;
+    margin: 0 auto;
+    background-color: ;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: space-evenly;
+}
